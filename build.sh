@@ -1,0 +1,1 @@
+g++  -O3 oneflow_naive.cpp -o of_permute
